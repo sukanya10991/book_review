@@ -1,0 +1,30 @@
+h1{
+    margin-left: 500px;
+    color: white;
+}
+#txt{
+    margin-left: 700px;
+    color: white;
+}
+img{
+    margin-left: 500px;
+    box-shadow:20px 20px 10px #400825;
+}
+body{
+    background: linear-gradient(#630935 0% , #520745 100%);
+}
+button{
+    font-size: 25px;
+    color: white;
+    background-color: #520745;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    margin-left: 50px;
+}
+h2{   
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
