@@ -1,17 +1,16 @@
 h1{
-    margin-left: 500px;
-    color: white;
+    font-size:50px !important;
+    
 }
-#txt{
-    margin-left: 700px;
-    color: white;
-}
-img{
-    margin-left: 500px;
-    box-shadow:20px 20px 10px #400825;
+
+img{   
+    box-shadow:20px 20px 10px rgb(71, 71, 71);
+    width:500px !important;
+    height:500px !important;
 }
 body{
-    background: linear-gradient(#630935 0% , #520745 100%);
+    background: rgb(64, 121, 139);
+    color: white !important;
 }
 button{
     font-size: 25px;
@@ -23,8 +22,15 @@ button{
     margin-left: 50px;
 }
 h2{   
-    color: white;
+    
     margin-left: 100px;
     margin-right: 100px;
     text-align: center;
+}
+p{
+    font-size: 25px;
+}
+#no1{
+    margin-left:200px !important;
+    margin-right:200px !important;
 }
